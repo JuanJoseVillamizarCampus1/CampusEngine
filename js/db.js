@@ -21,17 +21,17 @@ const servicios=[
 
 const carrito=[
     {
-        nombre:"papas",
+        nombre:"Papas",
         imagen:"/images/papasmargarita.jpg",
         precio:"2000$"
     },
     {
-        nombre:"pasteles",
+        nombre:"Pasteles",
         imagen:"/images/Pastel-de-Pollo7.jpg",
         precio:"2300$"
     },
     {
-        nombre:"cafe",
+        nombre:"Cafe",
         imagen:"/images/Color-del-cafe-filtrado-y-su-parecido-con-el-color-de-un-vino-tinto.-scaled.jpg",
         precio:"800$"
     }

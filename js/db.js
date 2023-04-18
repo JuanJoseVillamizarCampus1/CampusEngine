@@ -2,11 +2,13 @@
 const servicios=[
 {
     name:"Hunters",
-    img:"/images/hunters.png"
+    img:"/images/hunters.png",
+    detalle:"cerrado"
 },
 {
     name:"Cafeteria Hunters",
-    img:"../images/cafeteria-hunters.jpg"
+    img:"../images/cafeteria-hunters.jpg",
+    detalle:"abierto"
 },
 
 {
